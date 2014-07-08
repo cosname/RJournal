@@ -7,24 +7,22 @@ author:
     - line 1
     - line 2
     email:  jing.leng@cos.name
-  - name: Author Two
-    affiliation: Affiliation
+  - name: Yihui Xie
+    affiliation: RStudio, Inc
     address:
-    - line 1
-    - line 2
-    email:  author2@work
+    - "2609 Ferndale Ave #9"
+    - Ames, IA 50010, USA
+    email:  yihui.xie@cos.name
 output: rticles::rjournal_article
 ---
 
-The 7th China R Conference (Beijing session) was held in Renmin University of China (RUC), Beijing, from May 24th to 25th, 2014. The conference was organized by Capital of Statistics (COS, http://cos.name ), an online statistical community in China together with Center for Applied Statistics of RUC, the School of Statistics of RUC, and the Business Intelligence Research Center of Peking University. 
+The 7th China R Conference (Beijing session) was held in Renmin University of China (RUC), Beijing, from May 24th to 25th, 2014. The conference was organized by Capital of Statistics (COS, http://cos.name), an online statistical community in China, together with the Center for Applied Statistics of RUC, the School of Statistics of RUC, and the Business Intelligence Research Center of Peking University. 
 
-Chinese R Conference is the largest event for Chinese R users and developers. Every year, people from all over the country gather together for techniques in using R, knowledge of R packages, real cases of R usage, as well as topics on statistics, machine learning, and the big data industry. This bi-annual event takes place once in Beijing in summer and once Shanghai in winter. This time in Beijing, more than 900 people attended this conference for 33 talks, 6 lightening talks and one panel discussion, for free. 
+The China R Conference is the largest event for Chinese R users and developers. Every year, people from all over the country get together for R techniques, packages, applications, as well as topics on statistics and data analysis. This bi-annual event normally takes place in Beijing in summer and Shanghai in winter. More than 900 people attended the Beijing session this year, which included 33 talks, 6 lightening talks and one panel discussion. 
 
-The conference took place in Rulun Auditorium on the first day. There were 9 talks, followed by a panel discussion on big data industry and education. The panel discussion gathers Kai Yu from Baidu Institute of Deep Learning, Hansheng Wang from Peking University, Xizhi Wu from Renmin University, Changrong Du, Chief Data Officer of Youku Tudou, Yuan Yao from Peking University, Hao Hu from Quanttech, and Jiang Chang from Taiwan National University to a heated discussion about the buzzing of the phrase big data. The diversity of the speakers gave rise to some refreshing ideas. The second day of the conference consist of 24 talks in 3 parallel sessions. In each session, talks are grouped by themes. An after party was held in the university café in Renmin University. Conference attendees as well as speakers came for snacks, drinks and exchange of ideas. 
+The conference was held in the Rulun Auditorium on the first day. There were 9 talks, followed by a panel discussion on the big data industry and education. The discussion panel included Kai Yu from Baidu Institute of Deep Learning, Hansheng Wang from Peking University, Xizhi Wu from Renmin University, Changrong Du, Chief Data Officer of Youku Tudou, Yuan Yao from Peking University, Hao Hu from Quanttech, and Jiang Chang from Taiwan National University to a heated discussion about the buzz phrase "big data". The diversity of the speakers led to some refreshing ideas. The second day of the conference consisted of 24 talks in 3 parallel sessions. In each session, talks were grouped by themes. An evening party was held in a café on campus. Conference attendees as well as speakers came for snacks, drinks and exchange of ideas. 
 
-List of talks: 
-
-24th
+Below is a list of the talks given on May 24th:
 
 1. R packages: principles and best practices, Hadley Wickham (RStudio)
 2. How the growth of R helps data-driven organizations succeed, David Smith (Revolution Analytics)
@@ -36,11 +34,11 @@ List of talks:
 8. Establishing a Fund Selection Platform, Yi Zheng (National Sun Yat-sen University, Taiwan) 
 9. Handling Three Hundred Million Pieces of Video --- The Application of Data Analysis in Video Industry, Yizhu Liao (Youku Tudou) 
 
-25th
+There were three sessions on May 25th:
 
 Session A: 
 
-Data Models: 
+Data Modeling: 
 
 1. Hacking Models with R, Jiaqi Zhang (Taiwan R User Group)
 2. Multi-Cluster Detection, James Wicker (Chinese Academy of Sciences)
@@ -61,7 +59,7 @@ Session B:
 
 Big Data Industry: 
 
-1. New Direction of BigData: New Data Industry In The Trend Of Sharing Data, Yanping Chen (SupStat)
+1. New Direction of Big Data: New Data Industry In The Trend Of Sharing Data, Yanping Chen (SupStat)
 2. R-Web: Big Data Analysis and Consulting Cloud Platform, Jingyang Chen (Tamkang University)
 
 R in Big Data: 
@@ -95,6 +93,6 @@ R with Biology and Psychology:
 7. Application of R in the Development of New Medicine, Huan Yang (Mango Solutions)
 8. Combining R with Psychology: An illustration with SEM, Ge Xiang (University of Notre Dame)
 
-The conference was conducted in Chinese, with exception of the speeches by David Smith and Hadley Wickham. Most of the slides are in English. The conference materials, including the abstract booklet, presentation slides and the recording of the panel discussion are available on the website http://china-r.org
+The conference was primarily in Chinese, with exception of the talks by David Smith and Hadley Wickham. Most of the slides are in English. The conference materials, including the abstract booklet, presentation slides and the recording of the panel discussion are available on the website http://china-r.org.
 
-The conference committee consist of Taiyun Wei, Tao Gao, Jing Leng, Zhiji Huo, Miaozhu Li, Nan Xiao, Yihui Xie, Yishuo Deng, Yanping Chen, Yu Chen, Zhenshun Lin, Jian Wang, Hui Lin, Jian Li, Jianchong Su, Zhanhang Xiao, Sen Chen, Yixuan Qiu, Gang Chen, Yibo Chen, Zhiheng Hao, Xiang Zhang, and Liyun Chen. We would love to thank the help from the volunteers coming from universities and institutes all over China, the kind support from School of Statistics, Renmin University and the sponsorship from SupStat, Revolution Analytics, RStudio, VSNC, 1degreenorth, Huazhang Publishing, and Springer. We look forward to the next R conference in China!
+The conference committee consists of Taiyun Wei, Tao Gao, Jing Leng, Zhiji Huo, Miaozhu Li, Nan Xiao, Yihui Xie, Yishuo Deng, Yanping Chen, Yu Chen, Zhenshun Lin, Jian Wang, Hui Lin, Jian Li, Jianchong Su, Zhanhang Xiao, Sen Chen, Yixuan Qiu, Gang Chen, Yibo Chen, Zhiheng Hao, Xiang Zhang, and Liyun Chen. We would love to thank the help from the volunteers coming from universities and institutes all over China, the kind support from the School of Statistics, Renmin University, and the sponsorship from SupStat, Revolution Analytics, RStudio, VSNC, 1degreenorth, Huazhang Publishing, and Springer. We are looking forward to meeting more enthusiastic R users at the next R conference in Shanghai later this year!
