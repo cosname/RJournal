@@ -4,8 +4,8 @@ author:
   - name: Jing Leng
     affiliation: University of Michigan
     address:
-    - line 1
-    - line 2
+    - "439 West Hall, 1085 South University"
+    - Ann Arbor, MI 48109
     email:  jing.leng@cos.name
   - name: Yihui Xie
     affiliation: RStudio, Inc
